@@ -19,7 +19,7 @@ A two-page Power BI dashboard for a portfolio of 10,000 bank customers. It looks
 
 The portfolio view: headline KPIs, customer split by city and risk, and the main churn drivers.
 
-![Customer credit risk and churn overview](images/credit-risk-churn-overview.png)
+![Customer credit risk and churn overview](credit-risk-churn-overview.png)
 
 **Headline numbers**
 
@@ -44,7 +44,7 @@ The portfolio view: headline KPIs, customer split by city and risk, and the main
 
 A closer look at exposure, behaviour and financial stress.
 
-![Credit risk deep dive](images/credit-risk-deep-dive.png)
+![Credit risk deep dive](credit-risk-deep-dive.png)
 
 **Averages across the portfolio**
 
